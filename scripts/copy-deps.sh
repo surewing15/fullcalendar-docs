@@ -38,4 +38,5 @@ cp -r /Users/adam/Code/fullcalendar-workspace/premium/packages/resource-timeline
 cp -r /Users/adam/Code/fullcalendar-workspace/premium/packages/resource-daygrid/dist node_modules/@fullcalendar/resource-daygrid
 
 cp -r /Users/adam/Code/fullcalendar-workspace/standard/bundle/dist/index.global.min.js fullcalendar.min.js
-cp -r /Users/adam/Code/fullcalendar-workspace/premium/bundle/dist/index.global.min.js fullcalendar-scheduler.min.jsa
+cp -r /Users/adam/Code/fullcalendar-workspace/premium/bundle/dist/index.global.min.js fullcalendar-scheduler.min.js
+
